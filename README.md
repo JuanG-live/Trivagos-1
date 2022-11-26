@@ -1,3 +1,3 @@
 # Trivagos-1
 
-El presente manual es una guía para el correcto uso del software de gestión de hotelería sobre las bases de datos de información a cargo de la Secretaría de Turismo.
+El presente proyecto es un software de gestión de hotelería especializada en servicios y productos relacionados con internet en los campos de hoteles, alojamiento y metabúsqueda realizado en el lenguaje C.
