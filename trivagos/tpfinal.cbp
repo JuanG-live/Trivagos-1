@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="tpfinal" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/tpfinal" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/tpfinal" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="librerias/TDAHoteles.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/TDAHoteles.h" />
+		<Unit filename="librerias/TDAUsuarios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/TDAUsuarios.h" />
+		<Unit filename="librerias/administrador.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/administrador.h" />
+		<Unit filename="librerias/barramenu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/barramenu.h" />
+		<Unit filename="librerias/constantes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/constantes.h" />
+		<Unit filename="librerias/estructuras.h" />
+		<Unit filename="librerias/gotoxy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/gotoxy.h" />
+		<Unit filename="librerias/hoteles.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/hoteles.h" />
+		<Unit filename="librerias/persistencia.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/persistencia.h" />
+		<Unit filename="librerias/usuarios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/usuarios.h" />
+		<Unit filename="librerias/utilities.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/utilities.h" />
+		<Unit filename="librerias/ventanas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/ventanas.h" />
+		<Unit filename="librerias/ventanasAdmin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/ventanasAdmin.h" />
+		<Unit filename="librerias/vista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="librerias/vista.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

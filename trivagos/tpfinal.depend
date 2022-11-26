@@ -1,0 +1,747 @@
+# depslib dependency file v1.0
+1665759904 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"librerias/vista.h"
+	"librerias/utilities.h"
+
+1665747145 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\vista.c
+	"vista.h"
+
+1665498106 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\vista.h
+	<stdio.h>
+	<windows.h>
+	"estructuras.h"
+	"gotoxy.h"
+	"ventanas.h"
+	"usuarios.h"
+
+1666132031 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\estructuras.h
+	"constantes.h"
+
+1666006018 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\ventanas.c
+	"ventanas.h"
+	"vista.h"
+
+1665501975 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\ventanas.h
+	"estructuras.h"
+
+1665711593 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\vista.c
+	"vista.h"
+
+1665498106 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\vista.h
+	<stdio.h>
+	<windows.h>
+	"estructuras.h"
+	"gotoxy.h"
+	"ventanas.h"
+	"usuarios.h"
+
+1665711786 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\estructuras.h
+	"constantes.h"
+
+1665667273 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"librerias/vista.h"
+	"librerias/utilities.h"
+
+1665713599 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\ventanas.c
+	"ventanas.h"
+	"vista.h"
+
+1665501975 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\ventanas.h
+	"estructuras.h"
+
+1491399896 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\gotoxy.h
+
+1491400450 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1491400450 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1491399896 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\gotoxy.h
+
+1666133602 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\usuarios.c
+	"usuarios.h"
+	"vista.h"
+	"constantes.h"
+	"utilities.h"
+	"estructuras.h"
+	<pthread.h>
+	<signal.h>
+	<unistd.h>
+
+1665501932 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\usuarios.h
+
+1666101942 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\constantes.c
+
+1665780648 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\utilities.c
+	"utilities.h"
+
+1665674999 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\utilities.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<strings.h>
+	<conio.h>
+	<math.h>
+	"constantes.h"
+	"gotoxy.h"
+	"estructuras.h"
+
+1666101895 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\constantes.h
+
+1665503712 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\persistencia.c
+	"persistencia.h"
+
+1665498587 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\persistencia.h
+	<stdio.h>
+	"estructuras.h"
+
+1653922314 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\constantes.c
+
+1665503712 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\persistencia.c
+	"persistencia.h"
+
+1665498587 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\persistencia.h
+	<stdio.h>
+	"estructuras.h"
+
+1665532747 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\constantes.h
+
+1665714323 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\usuarios.c
+	"usuarios.h"
+	"vista.h"
+	"constantes.h"
+	"utilities.h"
+	"estructuras.h"
+
+1665501932 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\usuarios.h
+
+1665713124 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\utilities.c
+	"utilities.h"
+
+1665674999 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\utilities.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<strings.h>
+	<conio.h>
+	<math.h>
+	"constantes.h"
+	"gotoxy.h"
+	"estructuras.h"
+
+1653922314 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\constantes.c
+
+1491400450 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1665503712 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\persistencia.c
+	"persistencia.h"
+
+1665498587 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\persistencia.h
+	<stdio.h>
+	"estructuras.h"
+
+1665503703 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\estructuras.h
+	"constantes.h"
+
+1654602216 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\constantes.h
+
+1665513060 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\usuarios.c
+	"usuarios.h"
+	"vista.h"
+	"constantes.h"
+
+1665501932 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\usuarios.h
+
+1665498106 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\vista.h
+	<stdio.h>
+	<windows.h>
+	"estructuras.h"
+	"gotoxy.h"
+	"ventanas.h"
+	"usuarios.h"
+
+1491399896 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\gotoxy.h
+
+1665501975 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\ventanas.h
+	"estructuras.h"
+
+1665498912 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\utilities.c
+	"utilities.h"
+
+1665494350 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\utilities.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<strings.h>
+	<conio.h>
+	<math.h>
+	"constantes.h"
+	"gotoxy.h"
+
+1665513013 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\ventanas.c
+	"ventanas.h"
+	"vista.h"
+
+1665495182 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\librerias\vista.c
+	"vista.h"
+
+1665510685 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"librerias/vista.h"
+
+1667823871 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\constantes.c
+	"constantes.h"
+
+1491400450 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668107093 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\persistencia.c
+	"persistencia.h"
+
+1668109650 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\persistencia.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/stat.h>
+	<sys/types.h>
+	"estructuras.h"
+	"utilities.h"
+
+1667400306 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\estructuras.h
+	"constantes.h"
+
+1668612372 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\constantes.h
+
+1668612534 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\utilities.c
+	"utilities.h"
+
+1668459259 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\utilities.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<strings.h>
+	<conio.h>
+	<math.h>
+	"constantes.h"
+	"gotoxy.h"
+	"estructuras.h"
+
+1491399896 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\gotoxy.h
+
+1668431776 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\ventanas.c
+	"ventanas.h"
+
+1668112565 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\ventanas.h
+	"estructuras.h"
+	"vista.h"
+	"barramenu.h"
+
+1668115147 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\vista.h
+	<stdio.h>
+	<windows.h>
+	"estructuras.h"
+	"gotoxy.h"
+	"ventanas.h"
+	"usuarios.h"
+
+1669203184 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\usuarios.h
+	"hoteles.h"
+	"ventanas.h"
+	"estructuras.h"
+	"vista.h"
+	"constantes.h"
+	"utilities.h"
+	"estructuras.h"
+	"persistencia.h"
+
+1668175830 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\vista.c
+	"vista.h"
+
+1669159184 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"librerias/vista.h"
+	"librerias/gotoxy.h"
+	"librerias/usuarios.h"
+	"librerias/utilities.h"
+
+1669205064 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\usuarios.c
+	<pthread.h>
+	<signal.h>
+	<unistd.h>
+	"usuarios.h"
+
+1668625876 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\barramenu.c
+	"barramenu.h"
+	"vista.h"
+
+1668012184 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\barramenu.h
+	"estructuras.h"
+
+1668095268 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\hoteles.c
+	"hoteles.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668085183 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\hoteles.h
+	"estructuras.h"
+	"utilities.h"
+	"persistencia.h"
+
+1668625876 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\barramenu.c
+	"barramenu.h"
+	"vista.h"
+
+1668012184 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\barramenu.h
+	"estructuras.h"
+
+1667400306 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\estructuras.h
+	"constantes.h"
+
+1668612372 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\constantes.h
+
+1668115147 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\vista.h
+	<stdio.h>
+	<windows.h>
+	"estructuras.h"
+	"gotoxy.h"
+	"ventanas.h"
+	"usuarios.h"
+
+1491399896 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\gotoxy.h
+
+1668112565 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\ventanas.h
+	"estructuras.h"
+	"vista.h"
+	"barramenu.h"
+
+1668085290 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\usuarios.h
+	"hoteles.h"
+	"ventanas.h"
+	"estructuras.h"
+	"vista.h"
+	"constantes.h"
+	"utilities.h"
+	"estructuras.h"
+	"persistencia.h"
+
+1668085183 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\hoteles.h
+	"estructuras.h"
+	"utilities.h"
+	"persistencia.h"
+
+1667823871 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\constantes.c
+	"constantes.h"
+
+1491400450 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668095268 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\hoteles.c
+	"hoteles.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668107093 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\persistencia.c
+	"persistencia.h"
+
+1668109650 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\persistencia.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/stat.h>
+	<sys/types.h>
+	"estructuras.h"
+	"utilities.h"
+
+1668459323 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\usuarios.c
+	<pthread.h>
+	<signal.h>
+	<unistd.h>
+	"usuarios.h"
+
+1668459259 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\utilities.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<strings.h>
+	<conio.h>
+	<math.h>
+	"constantes.h"
+	"gotoxy.h"
+	"estructuras.h"
+
+1668612534 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\utilities.c
+	"utilities.h"
+
+1668431776 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\ventanas.c
+	"ventanas.h"
+
+1668175830 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\vista.c
+	"vista.h"
+
+1669159184 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"librerias/vista.h"
+	"librerias/gotoxy.h"
+	"librerias/usuarios.h"
+	"librerias/utilities.h"
+
+1669205205 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\administrador.c
+	"administrador.h"
+
+1668126148 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\administrador.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"vista.h"
+	"utilities.h"
+	"estructuras.h"
+	"ventanas.h"
+	"persistencia.h"
+	"TDAHoteles.h"
+	"TDAUsuarios.h"
+	"ventanasAdmin.h"
+
+1667335535 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\administrador.c
+	"administrador.h"
+
+1666798064 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\administrador.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"vista.h"
+	"utilities.h"
+	"estructuras.h"
+
+1666194256 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\vista.h
+	<stdio.h>
+	<windows.h>
+	"estructuras.h"
+	"gotoxy.h"
+	"ventanas.h"
+	"usuarios.h"
+
+1667331216 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\estructuras.h
+	"constantes.h"
+
+1667333491 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\constantes.h
+
+1491399896 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\gotoxy.h
+
+1666192334 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\ventanas.h
+	"estructuras.h"
+
+1667333704 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\usuarios.h
+	"hoteles.h"
+
+1667335303 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\hoteles.h
+	"estructuras.h"
+
+1666915752 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\utilities.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<strings.h>
+	<conio.h>
+	<math.h>
+	"constantes.h"
+	"gotoxy.h"
+	"estructuras.h"
+
+1667334922 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\barramenu.c
+	"barramenu.h"
+	"vista.h"
+
+1666208421 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\barramenu.h
+	"estructuras.h"
+
+1667219224 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\constantes.c
+	"constantes.h"
+
+1491400450 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1667333584 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\hoteles.c
+	"hoteles.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1667334798 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\persistencia.c
+	"persistencia.h"
+
+1667334798 c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\persistencia.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/stat.h>
+	<sys/types.h>
+	"estructuras.h"
+	"utilities.h"
+
+1667058169 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\utilities.c
+	"utilities.h"
+	<time.h>
+
+1667335011 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\ventanas.c
+	"ventanas.h"
+	"vista.h"
+
+1667245527 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\vista.c
+	"vista.h"
+
+1666971585 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"librerias/vista.h"
+	"librerias/utilities.h"
+
+1667213427 source:c:\users\usuario\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\usuarios.c
+	<pthread.h>
+	<signal.h>
+	<unistd.h>
+	"usuarios.h"
+	"vista.h"
+	"constantes.h"
+	"utilities.h"
+	"estructuras.h"
+
+1668613806 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\administrador.c
+	"administrador.h"
+
+1668126148 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\administrador.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"vista.h"
+	"utilities.h"
+	"estructuras.h"
+	"ventanas.h"
+	"persistencia.h"
+	"TDAHoteles.h"
+	"TDAUsuarios.h"
+	"ventanasAdmin.h"
+
+1668140485 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\ventanasadmin.c
+	"ventanasAdmin.h"
+
+1668114436 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\ventanasadmin.h
+	"estructuras.h"
+	"vista.h"
+
+1668140485 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\ventanasadmin.c
+	"ventanasAdmin.h"
+
+1668114436 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\ventanasadmin.h
+	"estructuras.h"
+	"vista.h"
+
+1668114539 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\tdahoteles.c
+	"TDAHoteles.h"
+
+1668114583 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\tdahoteles.h
+	<stdio.h>
+	<windows.h>
+	"estructuras.h"
+
+1668106956 source:e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\tdausuarios.c
+	"TDAUsuarios.h"
+
+1668109722 e:\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\tdausuarios.h
+	<stdio.h>
+	<windows.h>
+	"estructuras.h"
+
+1668129033 source:c:\users\germán\desktop\trivagos-v8\trivagos\librerias\administrador.c
+	"administrador.h"
+
+1668126148 c:\users\germán\desktop\trivagos-v8\trivagos\librerias\administrador.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"vista.h"
+	"utilities.h"
+	"estructuras.h"
+	"ventanas.h"
+	"persistencia.h"
+	"TDAHoteles.h"
+	"TDAUsuarios.h"
+	"ventanasAdmin.h"
+
+1668115147 c:\users\germán\desktop\trivagos-v8\trivagos\librerias\vista.h
+	<stdio.h>
+	<windows.h>
+	"estructuras.h"
+	"gotoxy.h"
+	"ventanas.h"
+	"usuarios.h"
+
+1667400306 c:\users\germán\desktop\trivagos-v8\trivagos\librerias\estructuras.h
+	"constantes.h"
+
+1668116209 c:\users\germán\desktop\trivagos-v8\trivagos\librerias\constantes.h
+
+1491399896 c:\users\germán\desktop\trivagos-v8\trivagos\librerias\gotoxy.h
+
+1668112565 c:\users\germán\desktop\trivagos-v8\trivagos\librerias\ventanas.h
+	"estructuras.h"
+	"vista.h"
+	"barramenu.h"
+
+1668012184 c:\users\germán\desktop\trivagos-v8\trivagos\librerias\barramenu.h
+	"estructuras.h"
+
+1668085290 c:\users\germán\desktop\trivagos-v8\trivagos\librerias\usuarios.h
+	"hoteles.h"
+	"ventanas.h"
+	"estructuras.h"
+	"vista.h"
+	"constantes.h"
+	"utilities.h"
+	"estructuras.h"
+	"persistencia.h"
+
+1668085183 c:\users\germán\desktop\trivagos-v8\trivagos\librerias\hoteles.h
+	"estructuras.h"
+	"utilities.h"
+	"persistencia.h"
+
+1668015917 c:\users\germán\desktop\trivagos-v8\trivagos\librerias\utilities.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<strings.h>
+	<conio.h>
+	<math.h>
+	"constantes.h"
+	"gotoxy.h"
+	"estructuras.h"
+
+1668109650 c:\users\germán\desktop\trivagos-v8\trivagos\librerias\persistencia.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/stat.h>
+	<sys/types.h>
+	"estructuras.h"
+	"utilities.h"
+
+1668114583 c:\users\germán\desktop\trivagos-v8\trivagos\librerias\tdahoteles.h
+	<stdio.h>
+	<windows.h>
+	"estructuras.h"
+
+1668109722 c:\users\germán\desktop\trivagos-v8\trivagos\librerias\tdausuarios.h
+	<stdio.h>
+	<windows.h>
+	"estructuras.h"
+
+1668114436 c:\users\germán\desktop\trivagos-v8\trivagos\librerias\ventanasadmin.h
+	"estructuras.h"
+	"vista.h"
+
+1668128598 source:c:\users\germán\desktop\trivagos-v8\trivagos\librerias\barramenu.c
+	"barramenu.h"
+	"vista.h"
+
+1667823871 source:c:\users\germán\desktop\trivagos-v8\trivagos\librerias\constantes.c
+	"constantes.h"
+
+1491400450 source:c:\users\germán\desktop\trivagos-v8\trivagos\librerias\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668095268 source:c:\users\germán\desktop\trivagos-v8\trivagos\librerias\hoteles.c
+	"hoteles.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668107093 source:c:\users\germán\desktop\trivagos-v8\trivagos\librerias\persistencia.c
+	"persistencia.h"
+
+1668114539 source:c:\users\germán\desktop\trivagos-v8\trivagos\librerias\tdahoteles.c
+	"TDAHoteles.h"
+
+1668106956 source:c:\users\germán\desktop\trivagos-v8\trivagos\librerias\tdausuarios.c
+	"TDAUsuarios.h"
+
+1668086781 source:c:\users\germán\desktop\trivagos-v8\trivagos\librerias\usuarios.c
+	<pthread.h>
+	<signal.h>
+	<unistd.h>
+	"usuarios.h"
+
+1668019055 source:c:\users\germán\desktop\trivagos-v8\trivagos\librerias\utilities.c
+	"utilities.h"
+
+1668112574 source:c:\users\germán\desktop\trivagos-v8\trivagos\librerias\ventanas.c
+	"ventanas.h"
+
+1668128242 source:c:\users\germán\desktop\trivagos-v8\trivagos\librerias\ventanasadmin.c
+	"ventanasAdmin.h"
+
+1668124263 source:c:\users\germán\desktop\trivagos-v8\trivagos\librerias\vista.c
+	"vista.h"
+
+1668001803 source:c:\users\germán\desktop\trivagos-v8\trivagos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"librerias/vista.h"
+	"librerias/gotoxy.h"
+	"librerias/usuarios.h"
+	"librerias/utilities.h"
+
+1668114583 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\tdahoteles.h
+	<stdio.h>
+	<windows.h>
+	"estructuras.h"
+
+1668109722 d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\tdausuarios.h
+	<stdio.h>
+	<windows.h>
+	"estructuras.h"
+
+1668114539 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\tdahoteles.c
+	"TDAHoteles.h"
+
+1668106956 source:d:\cesar\dropbox\dropbox\utn completa\cursada\2do cuatri\programacion\trabajo final\trivagos\librerias\tdausuarios.c
+	"TDAUsuarios.h"
+

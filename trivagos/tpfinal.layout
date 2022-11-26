@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="librerias\usuarios.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12701" topLine="327" />
+		</Cursor>
+	</File>
+	<File name="librerias\constantes.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1501" topLine="57" />
+		</Cursor>
+	</File>
+	<File name="librerias\TDAUsuarios.c" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="512" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="librerias\vista.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2621" topLine="35" />
+		</Cursor>
+	</File>
+	<File name="librerias\utilities.c" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9743" topLine="264" />
+		</Cursor>
+	</File>
+	<File name="librerias\gotoxy.c" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1092" topLine="13" />
+		</Cursor>
+	</File>
+	<File name="librerias\administrador.c" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="59852" topLine="1598" />
+		</Cursor>
+	</File>
+	<File name="librerias\ventanas.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="866712" topLine="1485" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="2049" />
+			<Collapse line="4084" />
+			<Collapse line="6115" />
+			<Collapse line="12210" />
+			<Collapse line="14246" />
+		</Folding>
+	</File>
+	<File name="librerias\hoteles.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1762" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="librerias\barramenu.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="683824" topLine="838" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="10" />
+			<Collapse line="16" />
+			<Collapse line="426" />
+			<Collapse line="838" />
+			<Collapse line="1248" />
+			<Collapse line="1659" />
+			<Collapse line="2069" />
+			<Collapse line="2480" />
+			<Collapse line="2890" />
+			<Collapse line="3301" />
+			<Collapse line="3711" />
+			<Collapse line="4122" />
+			<Collapse line="4532" />
+			<Collapse line="4943" />
+			<Collapse line="5354" />
+			<Collapse line="5766" />
+			<Collapse line="6178" />
+			<Collapse line="6591" />
+			<Collapse line="7413" />
+		</Folding>
+	</File>
+	<File name="librerias\ventanasAdmin.c" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="203064" topLine="2363" />
+		</Cursor>
+	</File>
+	<File name="librerias\persistencia.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="246" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="librerias\constantes.c" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="347" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="librerias\TDAHoteles.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="349" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="librerias\vista.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2932" topLine="57" />
+		</Cursor>
+	</File>
+	<File name="librerias\usuarios.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="739" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="librerias\estructuras.h" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1540" topLine="48" />
+		</Cursor>
+	</File>
+	<File name="librerias\TDAUsuarios.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="167" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="263" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="librerias\utilities.h" open="0" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="859" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="librerias\hoteles.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22974" topLine="535" />
+		</Cursor>
+	</File>
+	<File name="librerias\administrador.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="814" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="librerias\ventanas.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="126" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="librerias\persistencia.c" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12197" topLine="549" />
+		</Cursor>
+	</File>
+	<File name="librerias\barramenu.h" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="619" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="librerias\TDAHoteles.c" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="402" topLine="244" />
+		</Cursor>
+	</File>
+	<File name="librerias\ventanasAdmin.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="112" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
